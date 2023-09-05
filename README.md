@@ -7,6 +7,7 @@
 [Autores](#autores)
 
 # 🚀 Projeto - Portfolio para escrita do README
+![imagem](img/capa.png.png)
 
 ## 📋 Descrição
 
