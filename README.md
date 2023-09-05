@@ -6,14 +6,14 @@
 [Fontes consultadas](#fontes-consultadas)
 [Autores](#autores)
 
-# Projeto - Portfolio para escrita do README
+# 🚀 Projeto - Portfolio para escrita do README
 
-## Descrição
+## 📋 Descrição
 
-## Funcionalidades
+## 🔧  Funcionalidades
 
-### Tecnologias utilizadas
+### 🛠️  Tecnologias utilizadas
 
-## Fontes Consultadas
+## 📦 Fontes Consultadas
 
-## Autores
+## ✒️ Autores
