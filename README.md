@@ -1,6 +1,4 @@
-# Índice
-
-[Projeto - Portifólio para escrita do README](#projeto---portif%C3%B3lio-para-escrita-do-readme)  
+# Índice 
 
 [Descrição](#descri%C3%A7%C3%A3o)  
 
@@ -20,32 +18,12 @@
 
 ![imagem](img/capa.png)
 
- 
-
 ## 📋Descrição
-
- 
 
 ## 🔧 Funcionalidades
 
- 
-
 ### 🛠️ Tecnologia ultilizadas
 
- 
-
- 
-
 ## 📄 Fontes consultadas
-
  
-
-### https://github.com/
-
- 
-
- 
-
- 
-
 ## ✒️ Autores
