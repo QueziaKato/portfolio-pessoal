@@ -15,6 +15,7 @@
 
 ### 🛠️  Tecnologias utilizadas
 
+
 ## 📦 Fontes Consultadas
 
 ## ✒️ Autores
