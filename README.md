@@ -19,11 +19,14 @@
 ![imagem](img/capa.png)
 
 ## 📋Descrição
-
+Criação de projeto reponsivo para dispositivos móveis web.
 ## 🔧 Funcionalidades
 
 ### 🛠️ Tecnologia ultilizadas
-
+ Dropwizard - O framework web usado
+ Maven - Gerente de dependência
+ ROME - Usada para gerar RSS
+ Bootstrap - Estrutura para a construção de sites responsivos e voltados para dispositivos móveis, com jsDelivr e um modelo de página inicial.
 ## 📄 Fontes consultadas
  
 ## ✒️ Autores
