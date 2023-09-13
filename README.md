@@ -21,12 +21,11 @@
 ## 📋Descrição
 Criação de projeto reponsivo para dispositivos móveis web.
 ## 🔧 Funcionalidades
-
+ A tela inicial é o primeiro contato que o usuário tem com o site. Portanto, ela é ser objetiva e direta, resumindo os objetivos da ferramenta.
 ### 🛠️ Tecnologia ultilizadas
- Dropwizard - O framework web usado
- Maven - Gerente de dependência
- ROME - Usada para gerar RSS
  Bootstrap - Estrutura para a construção de sites responsivos e voltados para dispositivos móveis, com jsDelivr e um modelo de página inicial.
-## 📄 Fontes consultadas
+ Css
+ Html
+ ## 📄 Fontes consultadas
  
 ## ✒️ Autores
