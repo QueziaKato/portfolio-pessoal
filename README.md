@@ -31,6 +31,7 @@ Criação de projeto reponsivo para dispositivos móveis web, com o Bootstrap  q
  JAVASCRIPT
  ## 📄 Fontes consultadas
 https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
+https://www.alura.com.br/artigos/escrever-bom-readme
 ## ✒️ Autores
 * Quezia Tamie Kato
 
