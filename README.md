@@ -31,7 +31,6 @@ Criação de projeto reponsivo para dispositivos móveis web, com o Bootstrap  q
  JAVASCRIPT
  ## 📄 Fontes consultadas
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
-
 ## ✒️ Autores
 * Quezia Tamie Kato
 
