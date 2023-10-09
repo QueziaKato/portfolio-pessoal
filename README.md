@@ -31,5 +31,4 @@ https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
 https://www.alura.com.br/artigos/escrever-bom-readme
 ## ✒️ Autores
 * Quezia Tamie Kato
-
-![imagem](img/minhafoto.jpeg)
+<img src="img/minhafoto.jpeg" width="15%">
